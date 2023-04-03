@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+PyQRCode
+pypng
+Pillow
+ddtrace
+SQLAlchemy
+pydantic
